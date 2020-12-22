@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "NYX Matte lipstick",
+    "image": "lipi1.jpg",
+    "price": "600",
+    "Available": "Available In 24 shades"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Matte Trance Lipstick",
+    "image": "lipi2.jpg",
+    "price": "2200",
+    "Available": "Available In 16 shades"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Lip Lingerie",
+    "image": "lipi3.jpeg",
+    "price": "500",
+    "Available": "Available In 12 shades"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Mac Matte lipstick",
+    "image": "show.jpg",
+    "price": "2100",
+    "Available": "Available In 26 shades"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Color pop",
+    "image": "shado1.jpg",
+    "price": "1200",
+    "Available": "Available Now"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Focallure pink palette",
+    "image": "shado2.webp",
+    "price": "550",
+    "Available": "Available Now"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Nude Eyesadow Palette",
+    "image": "shado3.png",
+    "price": "880",
+    "Available": "Available Now"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Morphe Glitter Palette",
+    "image": "shadow4.png",
+    "price": "550",
+    "Abailable": "Available Now"
+  }]
