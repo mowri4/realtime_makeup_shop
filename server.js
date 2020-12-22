@@ -11,7 +11,7 @@ const expressLayout = require('express-ejs-layouts')
 
 
 
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3000 
 
 const mongoose = require('mongoose')
 const session = require('express-session')
